@@ -4340,7 +4340,7 @@ img{
 	width:0px;
 	height:100%;
 	display:block;
-	background-color:#2200bd;
+	background-color:#7ed957;
 	-webkit-transition:all 600ms ease;
 	-moz-transition:all 600ms ease;
 	-ms-transition:all 600ms ease;
@@ -6222,7 +6222,7 @@ img{
 .sidebar .service-list li a:hover,
 .sidebar .service-list li.current a{
 	color:#ffffff;
-	background:#ff9600;
+	background-image: linear-gradient( to left, #0afd2f, #00daad, #00adff, #0077ff, #1708ce );
 	border-color:#ff9600;
 }
 
@@ -6327,7 +6327,7 @@ img{
 
 .services-detail .inner-box .lower-content .text h3{
 	position:relative;
-	color:#ff7e00;
+	color:#7ed957;
 	font-size:24px;
 	font-weight:700;
 	margin-bottom:12px;
